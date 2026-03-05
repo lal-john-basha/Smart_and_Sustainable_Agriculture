@@ -1,6 +1,3 @@
-Here is a **better professional README.md** you can use for your GitHub project **Smart & Sustainable Agriculture**. Copy and replace your current README with this. 🌱💻
-
----
 
 # 🌱 Smart & Sustainable Agriculture System
 
